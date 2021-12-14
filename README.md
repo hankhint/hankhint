@@ -2,7 +2,7 @@
 - 👀 I’m interested in pirating the ships carrying people to Mars.
 - 🌱 I’m currently learning how to find the essence from within.
 - 💞️ I’m looking to collaborate on the social compact
-- 📫 How to reach me trebuchet me a jackolanternn
+- 📫 How to reach me trebuchet me a jackolantern
 
 <!---
 hankhint/hankhint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
