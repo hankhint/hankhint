@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @hankhint
-- 👀 I’m interested in pirating the ships carrying people to Mars.
-- 🌱 I’m currently learning how to find the essence from within.
-- 💞️ I’m looking to collaborate on the social compact
-- 📫 How to reach me trebuchet me a jackolantern
+- 🎃 Hi, call me Hank
+- ⚡ 🧮 Full Stack Web Developer interested in UX design and research
+- also into 🎸☕🎭🎨
+- https://www.linkedin.com/in/hankhint/
+- hankhint on twitter and youtube
+- email me at hankhint qmail.com
 
 <!---
 hankhint/hankhint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
