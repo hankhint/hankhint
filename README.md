@@ -1,6 +1,7 @@
 - 🎃 Hi, call me Hank
 - ⚡ 🧮 Full Stack Web Developer interested in UX design and research
 - also into 🎸☕🎭🎨
+- portfolio: www.hankhint.com
 - https://www.linkedin.com/in/hankhint/
 - hankhint on twitter and youtube
 - email me at hankhint qmail.com
